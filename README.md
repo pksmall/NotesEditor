@@ -1,7 +1,7 @@
-# NotesEditor
-GeekBrains Android 2 project
+## Notes Editor GeekBrains Android 2 Project
 
-Add last version.
+Проект для курса Android 2 от **[GeekBrains](https://geekbrains.ru/courses/8)**
 
-Добавлена завешающая версия проекта.
+Добавлена последняя версия. Урок №6.
+
 
